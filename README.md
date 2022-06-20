@@ -5,7 +5,7 @@
 
 - 🌱 I’m studying to master **Laravel and Django**
 
-- 👨‍💻 I'm most comfortable with **Java and Python**
+- 👨‍💻 I'm most comfortable with **Front-end Development**
 
 - 📄 Want to know more about me? [Go to my website](https://vanessanellyn.github.io/MyWebsite/)
 
