@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanessa Nellyn</h1>
-<h3 align="center">A passionate computer science student from the Philippines</h3>
+<h3 align="center">A passionate software developer from the Philippines</h3>
 
 - 🔭 I’m currently working on an [Ecommerce Website](https://vanessanellyn.github.io/Ecommerce-Website/) and a [Restaurant Website](https://vanessanellyn.github.io/Restaurant-Website/)
 
