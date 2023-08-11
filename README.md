@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanessa Nellyn</h1>
 <h3 align="center">A passionate software developer from the Philippines</h3>
 
-- 🔭 I’m currently working on an [Ecommerce Website](https://vanessanellyn.github.io/Ecommerce-Website/) and a [Restaurant Website](https://vanessanellyn.github.io/Restaurant-Website/)
+- 🔭 I’m currently working on an [Ecommerce Website](https://github.com/vanessanellyn/Ecommerce-Website) and a [Weather Checker Application](https://github.com/vanessanellyn/WeatherChecker)
 
 - 🌱 I’m studying to master **Laravel and Django**
 
