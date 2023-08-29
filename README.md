@@ -1,9 +1,9 @@
 <h1 align="left">👋 Hello fellow developers,</h1>
 
 <p align="justify">
-I'm Vanessa, a passionate software developer specializing in crafting dynamic websites with a strong focus on PHP. 🌐💻
+I'm Vanessa, a passionate software developer specializing in crafting dynamic websites with a strong focus on PHP. 💻
 
-From the early days of my coding journey, I've been captivated by the art of turning lines of code into interactive platforms that engage and empower users. With a Bachelor's degree in Computer Science and a solid grounding in programming, I've honed my skills to transform ideas into seamless user experiences.
+🌐 From the early days of my coding journey, I've been captivated by the art of turning lines of code into interactive platforms that engage and empower users. With a Bachelor's degree in Computer Science and a solid grounding in programming, I've honed my skills to transform ideas into seamless user experiences.
 
 🛠️ My toolkit is well-equipped with expertise in PHP, HTML, CSS, and JavaScript, enabling me to build feature-rich websites that not only look great but also perform flawlessly. From responsive design to database integration, I thrive on delivering high-quality solutions that make an impact.
 
@@ -11,7 +11,7 @@ From the early days of my coding journey, I've been captivated by the art of tur
 
 🌱 I've had the privilege of collaborating with diverse teams, translating concepts into reality, and contributing to projects that demand creative problem-solving. Whether it's an e-commerce platform, a content-rich website, or an interactive web application, I'm driven by the chance to bring imaginative ideas to life in the digital realm.
 
-Let's connect and explore the exciting possibilities of creating exceptional web experiences together. Feel free to reach out to me at [Your Email Address]. Looking forward to collaborating with fellow developers, designers, and tech aficionados!
+Let's connect and explore the exciting possibilities of creating exceptional web experiences together. Feel free to reach out to me using my email address at your left. Looking forward to collaborating with fellow developers, designers, and tech aficionados!
 
 Happy coding,
 Vanessa
