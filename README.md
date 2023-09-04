@@ -13,7 +13,7 @@ I'm Vanessa, a passionate software developer specializing in crafting dynamic we
 
 Let's connect and explore the exciting possibilities of creating exceptional web experiences together. Feel free to reach out to me using my email address at your left. Looking forward to collaborating with fellow developers, designers, and tech aficionados!
 
-Happy coding,
+Happy coding, <br />
 Vanessa
 
 #SoftwareDeveloper #WebDevelopment #PHP #FrontEnd #BackEnd #CodeCrafting</p>
